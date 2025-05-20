@@ -1,0 +1,7 @@
+{ "name" : "node_router"
+, "version" : "0.0.1"
+, "description" : "A simple http server for node.js that has sinatra like qualities.  Ideal for generating web services via node."
+, "author" : "Denis Rylikov <denis.rylikov@protonmail.com>"
+, "main" : "lib/node-router"
+, "engines" : { "node" : ">=0.1.32" }
+}
